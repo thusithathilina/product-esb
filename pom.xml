@@ -311,6 +311,12 @@
                 <type>mar</type>
                 <version>${sandesha2.version}</version>
             </dependency>
+	   <dependency>
+            <groupId>org.apache.sandesha2</groupId>
+            <artifactId>sandesha2-core</artifactId>
+            <type>jar</type>
+               <version>${sandesha2.version}</version>
+        </dependency>
             <dependency>
                 <groupId>org.wso2.carbon.mediation</groupId>
                 <artifactId>org.wso2.carbon.mediator.bridge</artifactId>
