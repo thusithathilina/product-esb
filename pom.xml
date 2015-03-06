@@ -1037,7 +1037,7 @@
 
         <!-- Axis2 -->
         <axis2.wso2.version>1.6.1.wso2v11</axis2.wso2.version>
-        <axis2-transports.version>1.6.1-wso2v11</axis2-transports.version>
+        <axis2.transport.version>1.1.0-wso2v11</axis2.transport.version>
         <addressing.version>1.6.1-wso2v11</addressing.version>
 
         <!-- Axiom -->
@@ -1051,7 +1051,7 @@
         <org.apache.httpcomponents.wso2.version>4.2.3.wso2v1</org.apache.httpcomponents.wso2.version>
 
         <!-- Carbon mediation version -->
-        <carbon.mediation.version>4.3.2</carbon.mediation.version>
+        <carbon.mediation.version>4.3.1</carbon.mediation.version>
 
         <!-- Carbon kernel version-->
         <carbon.kernel.version>4.3.0</carbon.kernel.version>
